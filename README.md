@@ -1,9 +1,14 @@
 # Zhan Zhou
+I got master’s degree of engineering at 2014 and my major is Compute Science. I have more than 4 years work experience and my research & develop interests are Computer Vision, High Performance Computing, Deep Learning, Heterogeneous Computing, GPU, ARM, DSP.
 - Email: zhanzhanlove.hi[at]outlook.com
 - Phone: +86-one-five-one-five-eight-zero-six-five-zero-seven-nine
 
 ## Research&Develop Interests
 - Deep Learning, Heterogeneous Computing, Computer Vision, Alogrithm Optimization, GPU(OpenCL/CUDA), ARM, DSP
+
+## Skills
+  
+## Projects Experience
 
 ## Education Experience
 - 2015-now : Ph.D. student, Supervisor: [Professor Zheng Li (BUCT)](http://cist.buct.edu.cn/staff/zheng/)
