@@ -1,5 +1,5 @@
 # Zhan Zhou
-I got master’s degree of engineering at 2014 and my major is Compute Science. I have more than 4 years work experience and my research & develop interests are Computer Vision, High Performance Computing, Deep Learning, Heterogeneous Computing, GPU, ARM, DSP.
+  I got master’s degree of Compute Science at 2014. I have more than 4 years work experience and my research & develop interests are Computer Vision, High Performance Computing, Deep Learning, Heterogeneous Computing, GPU, ARM, DSP.
 - Email: zhanzhanlove.hi[at]outlook.com
 - Phone: +86-one-five-one-five-eight-zero-six-five-zero-seven-nine
 
