@@ -7,7 +7,16 @@ I got master’s degree of engineering at 2014 and my major is Compute Science. 
 - Deep Learning, Heterogeneous Computing, Computer Vision, Alogrithm Optimization, GPU(OpenCL/CUDA), ARM, DSP
 
 ## Skills
-  
+- Familiar with C/C++ which has more than 7 years programming experience;
+- Familiar with GPU programming languages, such as OpenCL, OpenGLES and CUDA;
+- Familiar with Qualcomm Hexagon Dsp especially the HVX instructions of it;
+- Familiar with alogrithm optimization skills, such as neon instruction, multi-threads, memory accessing etc; 
+- Understanding the principle of deep learning;
+- Have experience with the deep learning inference engine by using dsp,arm neon and gpu;
+- Familiar with several inference frameworks such as  tf lite (with gemmlowp), nnlib, snpe etc;
+- Familiar with basic image processing algorithms and computer vision algorithms;
+- Understanding basic deep learning quantize and pruning techniques.
+
 ## Projects Experience
 
 ## Education Experience
