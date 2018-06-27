@@ -1,11 +1,9 @@
-# Yong Liu
-- Office Address: Room 303, College of Information Science and Technology Building
-- Mailing Address: Mail Box 4, No. 15 Beisanhuan East Road, Chaoyang District, Beijing 100029, P.R. China
-- Email: lyong[at]mail.buct.edu.cn
-- Phone: 010-64434726
+# Zhan Zhou
+- Email: zhanzhanlove.hi[at]outlook.com
+- Phone: +86-one-five-one-five-eight-zero-six-five-zero-seven-nine
 
-## Research Interests
-- Software Engineering, Artificial Intelligence, Software Analysis, Software Testing, Fault Localization
+## Research&Develop Interests
+- Deep Learning, Heterogeneous Computing, Computer Vision, Alogrithm Optimization, GPU(OpenCL/CUDA), ARM, DSP
 
 ## Education Experience
 - 2015-now : Ph.D. student, Supervisor: [Professor Zheng Li (BUCT)](http://cist.buct.edu.cn/staff/zheng/)
